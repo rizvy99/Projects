@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1778008301 source:e:\varsity\graphics\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<algorithm>
+
